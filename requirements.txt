@@ -5,3 +5,4 @@ streamlit
 tiktoken
 PyPDF2
 python-dotenv
+
